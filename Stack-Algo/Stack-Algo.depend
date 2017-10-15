@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1476772726 source:c:\users\ammy\documents\codeblocks-datastructure-c++\stack-algo\linearsearcharray.cpp
+	<iostream>
+	<conio.h>
+
+1476857755 source:c:\users\ammy\documents\codeblocks-datastructure-c++\stack-algo\binarysearcharray.cpp
+	<iostream>
+	<conio.h>
+
+1477836596 source:c:\users\ammy\documents\codeblocks-datastructure-c++\stack-algo\insertionsort.cpp
+	<iostream>
+	<conio.h>
+
+1477910302 source:c:\users\ammy\documents\codeblocks-datastructure-c++\stack-algo\bubblesort.cpp
+	<iostream>
+	<conio.h>
+
+1477834686 source:c:\users\ammy\documents\codeblocks-datastructure-c++\stack-algo\qeues.cpp
+	<iostream>
+	<conio.h>
+
+1477910228 source:c:\users\ammy\documents\codeblocks-datastructure-c++\stack-algo\selection.cpp
+	<iostream>
+	<conio.h>
+
