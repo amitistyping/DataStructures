@@ -8,7 +8,7 @@ using namespace std;
 
 int binary()
 {
-    int array[10], check, number;
+    int array[10], check, number;//I am on Github too
 
     for(int i=0;i<10;i++)
     {
