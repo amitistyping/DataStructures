@@ -6,7 +6,7 @@ using namespace std;
 
 int select()
 {
-    int arr[10],temp;
+    int arr[10],temp; //Again check this out
     cout<<"Enter any ten integers in array one by one \n";
 
     for(int i=0;i<10;i++)
