@@ -5,7 +5,7 @@
 
 using namespace std;
 
-int linear()
+int linearsearch()
 {
 int a[10], i, c, z;
 
