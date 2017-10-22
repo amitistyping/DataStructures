@@ -33,11 +33,14 @@
 			<Add option="-fexceptions" />
 		</Compiler>
 		<Unit filename="BinarySearchArray.cpp" />
+		<Unit filename="BinarySearchArrayExp.cpp" />
 		<Unit filename="BubbleSort.cpp" />
 		<Unit filename="InsertionSort.cpp" />
 		<Unit filename="LinearSearchArray.cpp">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="LinearSearchexp.cpp" />
+		<Unit filename="MyLSA.cpp" />
 		<Unit filename="Qeues.cpp" />
 		<Unit filename="selection.cpp" />
 		<Extensions>

@@ -7,7 +7,7 @@
 using namespace std;
 
 
-int main()
+int lxp()
 {
     int arr[5], x, i, c=6;
 
